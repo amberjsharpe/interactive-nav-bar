@@ -1,0 +1,40 @@
+/* header */
+header {
+    background-color: #150578;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #150578;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 12px 14px;
+    color: #78C0E0;
+    font-family: Gill Sans Extrabold, sans-serif;
+    text-decoration: none;
+}
+
+/* mouse over link */
+li a:hover {
+    background-color: #449DD1;
+    color: #0E0E52;
+}
+
+li a:active {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
